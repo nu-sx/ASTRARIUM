@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/icon.png" width="128" height="128" alt="Astrarium のアイコン / Astrarium icon">
+  <img src="images/icon.png" width="128" height="128" alt="ASTRARIUM のアイコン / ASTRARIUM icon">
 </p>
 
 <h1 align="center">ASTRARIUM（アストラリウム）</h1>
@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <img src="images/header.jpg" width="100%" alt="Astrarium の画面">
+  <img src="images/header.jpg" width="100%" alt="ASTRARIUM の画面">
 </p>
 
-## Astrarium について
+## ASTRARIUM について
 
 天体の位置はすべて端末の中で計算するので、電波の届かない山の上でも全機能が動きます。
 広告もアカウント登録もありません。11 の言語に対応し、星座名・恒星名・地名もその言語で出ます。
@@ -44,7 +44,7 @@
   <img src="images/pro-deep.jpg" width="24%" alt="深宇宙星表">
 </p>
 
-### Astrarium Pro
+### ASTRARIUM Pro
 
 太陽系3Dマップ（小天体約 156 万個・彗星・準惑星・探査機）、オーロラ予報、固有運動タイムマシン（±5 万年）、
 系外惑星のトランジットと変光星の予報、人工衛星の全群と世界地図・地球儀・検索、ドームマスター投影が加わります。
@@ -66,17 +66,17 @@ iPhone・iPad・Mac ではアプリ内の購読、Android では別アプリ「�
 | iPhone / iPad（Apple Watch は第 12 章） | [astrarium-manual-ja.pdf](manual/astrarium-manual-ja.pdf) |
 | Mac | [astrarium-manual-mac-ja.pdf](manual/astrarium-manual-mac-ja.pdf) |
 | Android | [astrarium-manual-android-ja.pdf](manual/astrarium-manual-android-ja.pdf) |
-| Astrarium Pro（Pro の機能を含む版） | [astrarium-pro-manual-ja.pdf](manual/astrarium-pro-manual-ja.pdf) |
+| ASTRARIUM Pro（Pro の機能を含む版） | [astrarium-pro-manual-ja.pdf](manual/astrarium-pro-manual-ja.pdf) |
 
 ---
 
 <p align="center">
-  <img src="images/header.en.jpg" width="100%" alt="Astrarium screens">
+  <img src="images/header.en.jpg" width="100%" alt="ASTRARIUM screens">
 </p>
 
-## About Astrarium
+## About ASTRARIUM
 
-Choose a place and a time, and Astrarium draws that sky. Every position is computed on the device,
+Choose a place and a time, and ASTRARIUM draws that sky. Every position is computed on the device,
 so the whole app works where there is no signal. No ads, no account, in 11 languages — the names of
 constellations, stars and places included.
 
@@ -98,11 +98,11 @@ constellations, stars and places included.
   <img src="images/watch-chart.jpg" width="24%" alt="Apple Watch: chart">
 </p>
 
-**Astrarium Pro** adds the 3D solar system map (about 1.56 million small bodies, comets, dwarf planets
+**ASTRARIUM Pro** adds the 3D solar system map (about 1.56 million small bodies, comets, dwarf planets
 and spacecraft), the aurora forecast, the proper-motion time machine (50,000 years either way),
 exoplanet transits and variable stars, every satellite group with a world map, a globe and search,
 and the dome-master projection. On iPhone, iPad and Mac it is a subscription inside the app; on
-Android it is a separate app, Astrarium Pro.
+Android it is a separate app, ASTRARIUM Pro.
 
 ## User manual
 
@@ -113,8 +113,8 @@ Screen by screen, with screenshots from the device (for version 2.3.1).
 | iPhone / iPad (Apple Watch: chapter 12) | [astrarium-manual-en.pdf](manual/astrarium-manual-en.pdf) |
 | Mac | [astrarium-manual-mac-en.pdf](manual/astrarium-manual-mac-en.pdf) |
 | Android | [astrarium-manual-android-en.pdf](manual/astrarium-manual-android-en.pdf) |
-| Astrarium Pro (including the Pro features) | [astrarium-pro-manual-en.pdf](manual/astrarium-pro-manual-en.pdf) |
+| ASTRARIUM Pro (including the Pro features) | [astrarium-pro-manual-en.pdf](manual/astrarium-pro-manual-en.pdf) |
 
 ---
 
-<p align="center"><sub>Astrarium © 2026 Avellsky · <a href="https://astrarium.pages.dev/privacy-policy.ja">プライバシーポリシー</a> · <a href="https://astrarium.pages.dev/privacy-policy.en">Privacy policy</a></sub></p>
+<p align="center"><sub>ASTRARIUM © 2026 Avellsky · <a href="https://astrarium.pages.dev/privacy-policy.ja">プライバシーポリシー</a> · <a href="https://astrarium.pages.dev/privacy-policy.en">Privacy policy</a></sub></p>
