@@ -2,7 +2,7 @@
   <img src="images/icon.png" width="128" height="128" alt="Astrarium のアイコン / Astrarium icon">
 </p>
 
-<h1 align="center">Astrarium（アストラリウム）</h1>
+<h1 align="center">ASTRARIUM（アストラリウム）</h1>
 
 <p align="center">
   <b>観測地と日時を決めれば、その空をそのまま描くプラネタリウム。</b><br>
